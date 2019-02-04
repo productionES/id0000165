@@ -2,7 +2,7 @@
 
 A Google Play clone made using flutter. Using nested tabs and nested scrolls.
 
-![Flutter Play](/assets/flutter-play.png)
+![Flutter Play](/image.png)
 
 ## Getting Started
 
